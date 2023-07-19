@@ -8,8 +8,8 @@ https://jbt.github.io/markdown-editor/
 
 Join me on my data journey!
 
-&nbsp; February of 2022, I began my journey to go from zero experience, to hired as a data analyst. In July of 2022 that dream became a reality- I am now a Tableau Consultant and Data Analyst at Zuar.  
-What started as a fun experiment has grown into something much bigger than myself, which you may have noticed if you follow me on Tik Tok or LinkedIn!
+&nbsp; February of 2022, I began my journey to go from *zero* experience, to hired as a data analyst. In July of 2022 that dream became a reality- I am now a Tableau Consultant and Data Analyst at Zuar.  
+What started as a fun experiment has grown into something much bigger than myself, which **you** may have ~~noticed~~ if you follow me on Tik Tok or LinkedIn!
 
 Markdown:  
 \- Hola  
