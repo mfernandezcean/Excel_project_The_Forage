@@ -19,3 +19,15 @@ This task has three steps:
 ## **1. DATA QUIALITY**
 
 [Video](https://www.loom.com/looms/videos/KPMGForage-fc15f18018894c15bedfa4ab377e0f37)
+
+![Picture1](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/da18c294-bf05-458a-ba6d-1c7d712512ec)
+
+
+## **1. DATA QUIALITY**
+[Video](https://www.loom.com/looms/videos/KPMGForage-fc15f18018894c15bedfa4ab377e0f37)
+
+|  Table | Accuracy  |Completeness |Consistency |Currency|Relevancy|Validity
+|--|--|--|--|--|--|--|
+|**CustomerDemographic:**  | ***DateOfBirth*** Age information not provided| ***Job_title*** missing 506 rows (13% of total records) ***Last_name*** missing 125 rows (6% of total records), ***Job_industry*** with 656 ‘n/a’ rows. (16.4% of total records) |***Gender*** is not consistent|***DateOfBirth*** record with an 1843 year of birth|***Deceased_indicator*** Information about deceased clients |***Default*** containing non- recognizable values ***Tenure*** information not clear or relevant 
+|**CustomerAddres**|sdfasfdsafd|wqerqwerq|wqerqwer|wqerqwer|QWerwqer|asdf
+|**Transactions**|wewef|32|wfe|wf|w2|ger
