@@ -16,14 +16,14 @@ This task has three steps:
  2. Data model build 
  3. Vizualise the results
 
-## **1. DATA QUIALITY**
+
 
 [Video](https://www.loom.com/looms/videos/KPMGForage-fc15f18018894c15bedfa4ab377e0f37)
 
 ![Picture1](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/da18c294-bf05-458a-ba6d-1c7d712512ec)
 
 
-## **1. DATA QUIALITY**
+## **1. DATA Quality**
 [Video](https://www.loom.com/looms/videos/KPMGForage-fc15f18018894c15bedfa4ab377e0f37)
 
 |  Table | Accuracy  |Completeness |Consistency |Currency|Relevancy|Validity
@@ -31,5 +31,7 @@ This task has three steps:
 |**CustomerDemographic:**  | ***DateOfBirth*** Age information not provided| ***Job_title*** missing 506 rows (13% of total records) ***Last_name*** missing 125 rows (6% of total records), ***Job_industry*** with 656 ‘n/a’ rows. (16.4% of total records) |***Gender*** is not consistent|***DateOfBirth*** record with an 1843 year of birth|***Deceased_indicator*** Information about deceased clients |***Default*** containing non- recognizable values ***Tenure*** information not clear or relevant 
 |**CustomerAddres:**|***Address*** information all in one record|**NA**|***State*** is not consistent |**NA**|**NA**|***Property_valuation*** no clear reference of meaning for the value
 |**Transactions:**|***Revenue*** information not provided|***Brand***, ***product_line***, ***product_class***, ***product_size*** missing 197 rows(1% of total transactions)|**NA**|**NA**|**NA**|***Transaction_date*** is for all 2017. Not only 3 months ***Product_first_sold_date*** format is not in date format ***List_price*** format not in currency |
+
+MEASURES TO BE TAKEN
 
 ## **2. Data Model Build**
