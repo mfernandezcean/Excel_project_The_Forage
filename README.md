@@ -6,12 +6,16 @@
 
 This projects is based on a simulated scenario created by KMPG in it's Virtual Internship.
 
-Shortly, you work as a member of the Data Analysys team of the firm with a new client that is a mid-siza company that sells bycicle and accesiories in Australia.
+Shortly, you work as a member of the Data Analysys team of the firm with a *new client that is a mid-siza company that sells bycicle and accesiories in Australia.*
 
-The client is looking to expand to a new market and the goal is to assist them with recomendations, based on the analytical work, to improvie their marketing campaing. 
+The client is **looking** to **expand** to a new market and the goal is to assist them with recomendations, based on the analytical work, to **improvie their marketing campaing**. 
+
 
 This task has three steps:
-1- Data quiality asistmen
-2-Data model build 
-3-Vizualise the results 
+ 1. Data quiality asistmen 
+ 2. Data model build 
+ 3. Vizualise the results
 
+## **1. DATA QUIALITY**
+
+[Video](https://www.loom.com/looms/videos/KPMGForage-fc15f18018894c15bedfa4ab377e0f37)
