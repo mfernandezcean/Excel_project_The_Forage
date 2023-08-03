@@ -34,6 +34,8 @@ This task has three steps:
 
 MEASURES TO BE TAKEN
 
+[![IMAGE ALT TEXT HERE](![qwq](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/82b2517e-4bb7-46f1-be27-1d18b72dc5b9))][(http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=KxqepcGxknw))
+
 [https://www.loom.com/share/a9dafa5f20fa4f9985e20eb745c8f15d](url)
 
 ## **2. Data Model Build**
