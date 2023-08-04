@@ -18,7 +18,8 @@ This task has three steps:
 
 
 
-[Video](https://www.loom.com/looms/videos/KPMGForage-fc15f18018894c15bedfa4ab377e0f37)
+
+### [Video Playlist on Youtube explaining the steps made](https://www.youtube.com/playlist?list=PLigrdXohxeUntp9jl_xmVd4II4dVaayj8)
 
 *Preview image of the data file used:*
 
