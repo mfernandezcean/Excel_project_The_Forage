@@ -1,3 +1,4 @@
+
 # **The FORAGE Project** 
 [![descarga](https://github.com/mfernandezcean/Portfolio_Excel/assets/105746149/3d191430-d1cf-474e-84bc-2652b60c27e4)
 ](https://i.pinimg.com/originals/3c/2f/14/3c2f14aa90dcff8428907535df95dda8.jpg)
@@ -168,3 +169,6 @@ Victoria 25% and Queensland 21%
  * Road $ 1,400,218
  * Touring $ 1,350,158
  5. ***54.8% of the Revenue comes from 3 industries:*** Manufacturing, Financial Services & Health
+## Data Model:
+![datamodel](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/bc0927f4-bb50-46a1-8855-81447f964860)
+
