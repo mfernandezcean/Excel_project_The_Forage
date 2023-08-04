@@ -1,7 +1,6 @@
 
 # **The FORAGE Project** 
-[![descarga](https://github.com/mfernandezcean/Portfolio_Excel/assets/105746149/3d191430-d1cf-474e-84bc-2652b60c27e4)
-](https://i.pinimg.com/originals/3c/2f/14/3c2f14aa90dcff8428907535df95dda8.jpg)
+![descarga](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/0d9aee4f-24dd-4263-be1f-c01bfaae3165)
 
 [KPMG virtual internship](https://www.theforage.com/modules/m7W4GMqeT3bh9Nb2c/S3uFvbDL49EA43ukg?ref=os5F6SHBM8o8xGJaD)
 
@@ -170,11 +169,12 @@ Victoria 25% and Queensland 21%
  * Touring $ 1,350,158
  5. ***54.8% of the Revenue comes from 3 industries:*** Manufacturing, Financial Services & Health
 ### Data Model:
-![datamodel](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/bc0927f4-bb50-46a1-8855-81447f964860)
+![datamodel](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/55bf8b62-242f-4d2d-92ed-c646cb53a0fa)
+
 
 # **3. Visualising the results**
 #### [Dashboard-Excel-file](https://github.com/mfernandezcean/Excel_project_The_Forage/blob/main/Worked_file/3./Dashboard_TheForage.xlsx)
 
-![Picture5](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/83a122b7-912f-4f79-bfc0-9ed341d47c56)
+![Picture5](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/53abdb21-98fb-43fc-a4bc-ca1dbc57237c)
 
 
