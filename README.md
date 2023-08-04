@@ -156,5 +156,6 @@ Don’t see possible use of deceased information.
 
  - **Issue**: ***Transaction_date*** is for all 2017. Not only 3 months **&** ***Product_first_sold_date*** format is not in date format **&** ***List_price*** format not in currency
  - **Mitigation**:  Make the analysis with all the data available **&** Change the format to date ***&*** Change the format to currency
- - **Recommendation**:***Clarify*** the range needed to use for the analysis **&** In the data entry process, ***fix the format of the columns*** to avoid confusions 
-## **2. Data Model Build**
+ - **Recommendation**:***Clarify*** the range needed to use for the analysis **&** In the data entry process, ***fix the format of the columns*** to avoid confusions
+    
+## **2. Data Insights & Model build**
