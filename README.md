@@ -175,3 +175,6 @@ Victoria 25% and Queensland 21%
 # **3. Visualising the results**
 #### [Dashboard-Excel-file](https://github.com/mfernandezcean/Excel_project_The_Forage/blob/main/Worked_file/3./Dashboard_TheForage.xlsx)
 
+![Picture5](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/83a122b7-912f-4f79-bfc0-9ed341d47c56)
+
+
