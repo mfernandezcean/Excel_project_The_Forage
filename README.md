@@ -16,11 +16,8 @@ This task has three steps:
  2. Data Model build 
  3. Visualising the results
 
-![85-854846_youtube-icon-small](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/7511cf8f-3256-43b8-9c7c-8650ce9b8182)
+![wwwa](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/e21752c0-a99e-4198-ac4a-5e1e5b12950d)
 
-<img src ="![YouTube_full-color_icon_(2017) svg](![yt](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/2b24dcb3-ee73-4872-bb8e-cb780a36dc06))" width = "200" height= "100">
-
-### [Video Playlist on Youtube explaining the steps made](https://www.youtube.com/playlist?list=PLigrdXohxeUntp9jl_xmVd4II4dVaayj8)
 
 *Preview image of the data file used:*
 
