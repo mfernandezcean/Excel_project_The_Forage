@@ -4,14 +4,14 @@
 
 [KPMG virtual internship](https://www.theforage.com/modules/m7W4GMqeT3bh9Nb2c/S3uFvbDL49EA43ukg?ref=os5F6SHBM8o8xGJaD)
 
-This projects is based on a simulated scenario created by KMPG in it's Virtual Internship.
+This project is based on a simulated scenario created by KMPG in it's Virtual Internship.
 
 Shortly, you work as a member of the Data Analyst's team of the firm with a **new client that is a mid-size company that sells bycicle and accesiories in Australia.**
 
 The client is **looking** to **expand** to a ***new market*** and the goal is to assist them with recommendations, based on the analytical work, to **improve their marketing campaign**. 
 
 
-This task has three steps:
+### **This task has three steps:**
  1. Data Quality Assessment 
  2. Data Insights & Model build 
  3. Visualising the results
@@ -32,7 +32,7 @@ This task has three steps:
 
 ## MEASURES TO BE TAKEN:
 ### For Accuracy:
-**CustomerDeomographic**: 
+ **CustomerDeomographic**: 
 
  - **Issue**: column ***DateOfBirth*** information is not accurate. Age information is needed
  - **Mitigation**:  Creatin of an **'Age'** *column* in the data set 
