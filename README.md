@@ -24,7 +24,7 @@ This task has three steps:
 ## ISSUES:
 |  Table | Accuracy  |Completeness |Consistency |Currency|Relevancy|Validity
 |--|--|--|--|--|--|--|
-|**CustomerDemographic:**  | ***DateOfBirth*** Age information not provided| ***Job_title*** missing 506 rows (13% of total records) \ ***Last_name*** missing 125 rows (6% of total records), ***Job_industry*** with 656 ‘n/a’ rows. (16.4% of total records) |***Gender*** is not consistent|***DateOfBirth*** record with an 1843 year of birth|***Deceased_indicator*** Information about deceased clients |***Default*** containing non- recognizable values ***Tenure*** information not clear or relevant 
+|**CustomerDemographic:**  | ***DateOfBirth*** Age information not provided| ***Job_title*** missing 506 rows (13% of total records)  ***Last_name*** missing 125 rows (6% of total records), ***Job_industry*** with 656 ‘n/a’ rows. (16.4% of total records) |***Gender*** is not consistent|***DateOfBirth*** record with an 1843 year of birth|***Deceased_indicator*** Information about deceased clients |***Default*** containing non- recognizable values ***Tenure*** information not clear or relevant 
 |**CustomerAddres:**|***Address*** information all in one record|**NA**|***State*** is not consistent |**NA**|**NA**|***Property_valuation*** no clear reference of meaning for the value
 |**Transactions:**|***Revenue*** information not provided|***Brand***, ***product_line***, ***product_class***, ***product_size*** missing 197 rows(1% of total transactions)|**NA**|**NA**|**NA**|***Transaction_date*** is for all 2017. Not only 3 months ***Product_first_sold_date*** format is not in date format ***List_price*** format not in currency |
 
