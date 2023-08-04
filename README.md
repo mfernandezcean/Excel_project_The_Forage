@@ -160,3 +160,14 @@ Don’t see possible use of deceased information.
     
 ## **2. Data Insights & Model build**
 [Insights Presentation file](https://github.com/mfernandezcean/Excel_project_The_Forage/blob/main/Worked_file/2./Module_2_Template_slide_work.pptx)
+
+
+ 1. ***New South Wales Represents the 53% of the Total Revenue.*** 
+Victoria 25% and Queensland 21%
+ 2. ***The Mass Customer segment represent the 50.1% of the Total Revenue*** High Net Worth 25.4% and Affluent Customer 24.3%
+ 3. ***Customers between 40-49 years tend to be more profitable than other ages.*** 50’s and 30’s combined reach a 34.16%
+ 4. ***By far, Standard Product is the most  Popular in the market.***    
+ * Standard $ 8,138,860
+ * Road $ 1,400,218
+ * Touring $ 1,350,158
+ 5. ***54.8% of the Revenue comes from 3 industries:*** Manufacturing, Financial Services & Health
