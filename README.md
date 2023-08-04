@@ -16,14 +16,10 @@ This task has three steps:
  2. Data Insights & Model build 
  3. Visualising the results
 
-![wwwaa](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/257e75f3-9636-4c31-bfd7-70e4ef97c90c)
-**[YouTube Playlist explaingin the steps made](https://www.youtube.com/playlist?list=PLigrdXohxeUntp9jl_xmVd4II4dVaayj8)**
-
-*Preview image of the data file used:*
 
 
 # **1. DATA Quality**
-[Video](https://www.loom.com/looms/videos/KPMGForage-fc15f18018894c15bedfa4ab377e0f37)
+
 
 ## ISSUES:
 |  Table | Accuracy  |Completeness |Consistency |Currency|Relevancy|Validity
