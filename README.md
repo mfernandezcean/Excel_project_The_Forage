@@ -19,7 +19,7 @@ This task has three steps:
 
 
 
-# **1. DATA Quality**
+# **1. Data Quality**
 
 
 ### [Folder 1-Data Quality files](https://github.com/mfernandezcean/Excel_project_The_Forage/tree/main/Worked_file/1.)
