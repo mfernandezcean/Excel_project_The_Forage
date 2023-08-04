@@ -157,8 +157,8 @@ Don’t see possible use of deceased information.
  - **Recommendation**:***Clarify*** the range needed to use for the analysis **&** In the data entry process, ***fix the format of the columns*** to avoid confusions
     
 # **2. Data Insights & Model build**
-### [Insights Presentation file](https://github.com/mfernandezcean/Excel_project_The_Forage/blob/main/Worked_file/2./Module_2_Template_slide_work.pptx)
-
+### Insights:
+#### [Insights Presentation file](https://github.com/mfernandezcean/Excel_project_The_Forage/blob/main/Worked_file/2./Module_2_Template_slide_work.pptx)
 
  1. ***New South Wales Represents the 53% of the Total Revenue.*** 
 Victoria 25% and Queensland 21%
@@ -169,6 +169,6 @@ Victoria 25% and Queensland 21%
  * Road $ 1,400,218
  * Touring $ 1,350,158
  5. ***54.8% of the Revenue comes from 3 industries:*** Manufacturing, Financial Services & Health
-## Data Model:
+### Data Model:
 ![datamodel](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/bc0927f4-bb50-46a1-8855-81447f964860)
 
