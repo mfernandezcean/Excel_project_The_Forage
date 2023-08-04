@@ -22,7 +22,7 @@ This task has three steps:
 # **1. DATA Quality**
 
 
-### [Folder 1](https://github.com/mfernandezcean/Excel_project_The_Forage/tree/main/Worked_file/1.)
+### [Folder 1-Data Quality files](https://github.com/mfernandezcean/Excel_project_The_Forage/tree/main/Worked_file/1.)
 ## ISSUES:
 |  Table | Accuracy  |Completeness |Consistency |Currency|Relevancy|Validity
 |--|--|--|--|--|--|--|
