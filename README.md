@@ -13,7 +13,7 @@ The client is **looking** to **expand** to a ***new market*** and the goal is to
 
 This task has three steps:
  1. Data Quality Assessment 
- 2. Data Model build 
+ 2. Data Insights & Model build 
  3. Visualising the results
 
 ![wwwaa](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/257e75f3-9636-4c31-bfd7-70e4ef97c90c)
