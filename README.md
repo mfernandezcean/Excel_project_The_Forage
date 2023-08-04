@@ -154,7 +154,7 @@ Don’t see possible use of deceased information.
  - **Mitigation**:  Make the analysis with all the data available **&** Change the format to date ***&*** Change the format to currency
  - **Recommendation**:***Clarify*** the range needed to use for the analysis **&** In the data entry process, ***fix the format of the columns*** to avoid confusions
     
-## **2. Data Insights & Model build**
+# **2. Data Insights & Model build**
 [Insights Presentation file](https://github.com/mfernandezcean/Excel_project_The_Forage/blob/main/Worked_file/2./Module_2_Template_slide_work.pptx)
 
 
