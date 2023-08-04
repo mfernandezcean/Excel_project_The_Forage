@@ -168,6 +168,12 @@ Victoria 25% and Queensland 21%
  * Road $ 1,400,218
  * Touring $ 1,350,158
  5. ***54.8% of the Revenue comes from 3 industries:*** Manufacturing, Financial Services & Health
+
+**Potential Market Niche** 
+Victoria's Standard product type, Mass Customer buyer:
+
+![Picture2](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/9aa6d018-8d63-4010-8ea8-5f16bd0a4825)
+
 ### Data Model:
 ![datamodel](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/55bf8b62-242f-4d2d-92ed-c646cb53a0fa)
 
