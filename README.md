@@ -22,7 +22,7 @@ This task has three steps:
 # **1. Data Quality**
 
 
-### [Folder 1-Data Quality files](https://github.com/mfernandezcean/Excel_project_The_Forage/tree/main/Worked_file/1.)
+#### [Folder 1-Data Quality files](https://github.com/mfernandezcean/Excel_project_The_Forage/tree/main/Worked_file/1.)
 ## ISSUES:
 |  Table | Accuracy  |Completeness |Consistency |Currency|Relevancy|Validity
 |--|--|--|--|--|--|--|
@@ -171,4 +171,7 @@ Victoria 25% and Queensland 21%
  5. ***54.8% of the Revenue comes from 3 industries:*** Manufacturing, Financial Services & Health
 ### Data Model:
 ![datamodel](https://github.com/mfernandezcean/Excel_project_The_Forage/assets/105746149/bc0927f4-bb50-46a1-8855-81447f964860)
+
+# **3. Visualising the results**
+#### [Dashboard-Excel-file](https://github.com/mfernandezcean/Excel_project_The_Forage/blob/main/Worked_file/3./Dashboard_TheForage.xlsx)
 
